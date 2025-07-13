@@ -1,0 +1,44 @@
+# Arquivos de modelo e vetorizadores
+*.pkl
+
+# Cache do Streamlit
+.streamlit/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.temp
+*.bak
+
+# Arquivos Jupyter temporários
+.ipynb_checkpoints/
+
+# Diretórios do VSCode
+.vscode/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environments locais
+.env
+.venv/
+venv/
+env/
+
+# Compilados Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos do Windows Apps (opcional)
+*.lnk
+
+# Arquivos de build
+build/
+dist/
+
+# Dados locais
+data/
